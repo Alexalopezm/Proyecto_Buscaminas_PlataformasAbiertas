@@ -8,10 +8,18 @@ Proyecto final de Lenguaje Python
   
 ## Contenido
 
+- [Objetivos](#Objetivos)
 - [Introducción](#Introdución)
 - [Marco Teórico](#Marco-Teórico)
 - [Resultados](#Resultados)
 - [Análisis y conclusiones](#Análisis-y-conclusiones)
+
+## Objetivos
+1. Desarrollar un juego de buscaminas en Python, implementando bibliotecas y conocimientos adquiridos a lo largo del curso.
+   
+2. Diseñar una interfaz gráfica visualmente atractiva que permita a los jugadores interactuar con el juego.
+
+3. Demostrar la buena funcionalidad del juego mediante la correcta ejecución del mismo.
 
 ## Introducción
 El proyecto consiste en la creación de un juego mediante el lenguaje de programación Python. En dicho proyecto además de repasar los conceptos fundamentales del lenguaje, se aplican principios de programación orientada a objetos y manipulación de interfaces gráficas.
