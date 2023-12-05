@@ -23,7 +23,7 @@ La lógica detrás de la asignación aleatoria de minas, el conteo de minas adya
 
 En la implementación, se utiliza la orientación a objetos para organizar el código de manera clara y modular. Se han definido clases como Boton, Menu, y Juego para gestionar diferentes aspectos del juego. Además, el código hace uso de conceptos como eventos de mouse, manejo de tiempo, y manipulación de imágenes para crear una experiencia de juego completa.
 
-# Resultados
+## Resultados
 
 ## Análisis y conclusiones
 -La implementación del juego Buscaminas en Python con Pygame demuestra la versatilidad de este lenguaje de programación y su capacidad para crear aplicaciones interactivas. 
