@@ -98,7 +98,7 @@ Por consiguiente, si un usuario externo al proyecto quisiera probar el juego y d
 
 2 - Descargar Python, puede ser la versión más reciente, cabe destacar que es importante darle acceso a estos dos opciones; la primera es para que Python pueda desenvolverse bien en el entorno de la computador; y el segundo es para añadir la ruta y ciertos comandos importantes de Python puedan estar más accesibles en el momento de ejecutar el código.
 
-
+<img src="https://github.com/Alexalopezm/Proyecto_Buscaminas_PlataformasAbiertas/blob/main/Instalar%20Python.png" alt="Ajustes a la hora de instalar Python">
 
 3 - Se requiere que en el visual studio code, descargue los paquetes de Python, Pylance y la extensión de Python propio de visual para que pueda enlazar bien el código de python al visual studio code.
 
