@@ -10,6 +10,7 @@ Proyecto final de Lenguaje Python
 
 - [Introducción](#Introdución)
 - [Marco Teórico](#Marco-Teórico)
+- [Resultados](#Resultados)
 - [Análisis y conclusiones](#Análisis-y-conclusiones)
 
 ## Introducción
@@ -21,6 +22,8 @@ Algunas de las bibliotecas empleadas son **pygame, sys, time, random**. Pygame b
 La lógica detrás de la asignación aleatoria de minas, el conteo de minas adyacentes y la expansión recursiva al destapar áreas vacías son elementos esenciales del Buscaminas. Además, la interfaz gráfica proporcionada por Pygame facilita la interacción del usuario con el juego.
 
 En la implementación, se utiliza la orientación a objetos para organizar el código de manera clara y modular. Se han definido clases como Boton, Menu, y Juego para gestionar diferentes aspectos del juego. Además, el código hace uso de conceptos como eventos de mouse, manejo de tiempo, y manipulación de imágenes para crear una experiencia de juego completa.
+
+# Resultados
 
 ## Análisis y conclusiones
 -La implementación del juego Buscaminas en Python con Pygame demuestra la versatilidad de este lenguaje de programación y su capacidad para crear aplicaciones interactivas. 
