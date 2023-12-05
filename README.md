@@ -92,6 +92,20 @@ Coloca o quita banderas en la cuadrícula, actualizando el estado del juego.
 ImpTiempo muestra el tiempo transcurrido durante el juego.
 MostrarRespuesta revela la ubicación de minas y muestra una "X" sobre banderas mal colocadas cuando el jugador pierde
 
+Por consiguiente, si un usuario externo al proyecto quisiera probar el juego y divertirse un rato, se necesita de los siguientes pasos a seguir para poder disfrutar de dicho juego:
+
+1 - Se requiere descargar visual studio code, es una herramienta multifuncional que se puede adaptar a casi todo tipo de lenguaje de programación, con tal de añadir ciertas extensiones y se podrá usar.
+
+2 - Descargar Python, puede ser la versión más reciente, cabe destacar que es importante darle acceso a estos dos opciones; la primera es para que Python pueda desenvolverse bien en el entorno de la computador; y el segundo es para añadir la ruta y ciertos comandos importantes de Python puedan estar más accesibles en el momento de ejecutar el código.
+
+
+
+3 - Se requiere que en el visual studio code, descargue los paquetes de Python, Pylance y la extensión de Python propio de visual para que pueda enlazar bien el código de python al visual studio code.
+
+4 - Por último, en la terminal de visual usando el comando `pip install pygame`, descarga el paquete `pygame` biblioteca de Python para diseñada para el desarrollo de videojuegos y aplicaciones multimedia.
+
+5 - Finalmente, cierras la aplicación de visual y lo vuelves a abrir para que se guarde todos los cambios, y podrás disfrutar del juego ''BuscaMinas''.
+
 ## Resultados
 
 <img src="https://github.com/Alexalopezm/Proyecto_Buscaminas_PlataformasAbiertas/blob/Imagenes/Menu.png" alt="Menu">
