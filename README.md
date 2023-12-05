@@ -94,6 +94,12 @@ MostrarRespuesta revela la ubicación de minas y muestra una "X" sobre banderas 
 
 ## Resultados
 
+<img src="https://github.com/Alexalopezm/Proyecto_Buscaminas_PlataformasAbiertas/blob/Imagenes/Menu.png" alt="Menu">
+<img src="https://github.com/Alexalopezm/Proyecto_Buscaminas_PlataformasAbiertas/blob/Imagenes/Instrucciones.png" alt="Instrucciones de juego">
+<img src="https://github.com/Alexalopezm/Proyecto_Buscaminas_PlataformasAbiertas/blob/Imagenes/Celdas.png" alt="Interfaz al iniciar">
+<img src="https://github.com/Alexalopezm/Proyecto_Buscaminas_PlataformasAbiertas/blob/Imagenes/CeldasDesbloqueadas.png" alt="Juego en ejecución">
+
+
 ## Análisis y conclusiones
 -La implementación del juego Buscaminas en Python con Pygame demuestra la versatilidad de este lenguaje de programación y su capacidad para crear aplicaciones interactivas. 
 
