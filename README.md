@@ -93,6 +93,7 @@ Coloca o quita banderas en la cuadrícula, actualizando el estado del juego.
 ImpTiempo muestra el tiempo transcurrido durante el juego.
 MostrarRespuesta revela la ubicación de minas y muestra una "X" sobre banderas mal colocadas cuando el jugador pierde
 
+
 ## Manual de Uso
 
 Por consiguiente, si un usuario externo al proyecto quisiera probar el juego y divertirse un rato, se necesita de los siguientes pasos a seguir para poder disfrutar de dicho juego:
