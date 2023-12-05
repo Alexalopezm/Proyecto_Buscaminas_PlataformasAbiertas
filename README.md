@@ -11,6 +11,7 @@ Proyecto final de Lenguaje Python
 - [Objetivos](#Objetivos)
 - [Introducción](#Introdución)
 - [Marco Teórico](#Marco-Teórico)
+- [Manual de Uso](#Manual-de-Uso)
 - [Resultados](#Resultados)
 - [Análisis y conclusiones](#Análisis-y-conclusiones)
 
@@ -91,6 +92,8 @@ Coloca o quita banderas en la cuadrícula, actualizando el estado del juego.
 -ImpTiempo y MostrarRespuesta:
 ImpTiempo muestra el tiempo transcurrido durante el juego.
 MostrarRespuesta revela la ubicación de minas y muestra una "X" sobre banderas mal colocadas cuando el jugador pierde
+
+## Manual de Uso
 
 Por consiguiente, si un usuario externo al proyecto quisiera probar el juego y divertirse un rato, se necesita de los siguientes pasos a seguir para poder disfrutar de dicho juego:
 
